@@ -9,7 +9,7 @@ from pathlib import Path
 import urllib.parse
 
 # Bot token (BotFather se lena)
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8232409100:AAHdOcsXsYi8ijSuX_Ui47SEBauYCRCx1BY"
 
 # Logging setup
 logging.basicConfig(level=logging.INFO)
